@@ -19,8 +19,8 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'mongoid', ['>= 6.0', '<= 9.0']
 
-  s.add_development_dependency 'rake'
-  s.add_development_dependency 'foreman'
-  s.add_development_dependency 'rspec'
-  s.add_development_dependency 'pry'
+  #s.add_development_dependency 'rake'
+  #s.add_development_dependency 'foreman'
+  #s.add_development_dependency 'rspec'
+  #s.add_development_dependency 'pry'
 end
